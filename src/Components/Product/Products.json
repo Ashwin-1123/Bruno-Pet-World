@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "name": "Dog Food",
+      "price": 25.99,
+      "images": ["dog-food-1.jpg", "dog-food-2.jpg"],
+      "description": "Premium quality dog food for all breeds and sizes."
+    },
+    {
+      "id": 2,
+      "name": "Dog Grooming Kit",
+      "price": 39.99,
+      "images": ["dog-grooming-kit-1.jpg", "dog-grooming-kit-2.jpg"],
+      "description": "Complete grooming kit to keep your dog looking great."
+    },
+    {
+      "id": 3,
+      "name": "Dog Collar",
+      "price": 12.99,
+      "images": ["dog-collar-1.jpg", "dog-collar-2.jpg","dog-collar-3.jpg"],
+      "description": "Durable and stylish dog collar for everyday use."
+    },
+    {
+      "id": 4,
+      "name": "Dog Leash",
+      "price": 18.99,
+      "images": ["dog-leash-1.jpg", "dog-leash-2.jpg"],
+      "description": "Strong and reliable leash for walking your dog."
+    },
+    {
+      "id": 5,
+      "name": "Dog Chew Toy",
+      "price": 7.99,
+      "images": ["dog-chew-toy-1.jpg", "dog-chew-toy-2.jpg"],
+      "description": "Durable chew toy to keep your dog entertained."
+    },
+    {
+      "id": 6,
+      "name": "Dog Raincoat",
+      "price": 24.99,
+      "images": ["dog-raincoat-1.jpg", "dog-raincoat-2.jpg"],
+      "description": "Waterproof raincoat to keep your dog dry."
+    },
+    {
+      "id": 7,
+      "name": "Dog Brush",
+      "price": 14.99,
+      "images": ["dog-brush-1.jpg", "dog-brush-2.jpg"],
+      "description": "Gentle brush to keep your dog's coat smooth."
+    },
+    {
+      "id": 8,
+      "name": "Dog Training Pads",
+      "price": 19.99,
+      "images": ["dog-training-pads-1.jpg", "dog-training-pads-2.jpg"],
+      "description": "Absorbent training pads for housebreaking your dog."
+    },
+    {
+      "id": 9,
+      "name": "Dog Travel Carrier",
+      "price": 59.99,
+      "images": ["dog-travel-carrier-1.jpg", "dog-travel-carrier-2.jpg"],
+      "description": "Comfortable travel carrier for your dog's safety."
+    },
+    {
+      "id": 10,
+      "name": "Dog Cooling Mat",
+      "price": 29.99,
+      "images": ["dog-cooling-mat-1.jpg", "dog-cooling-mat-2.jpg"],
+      "description": "Cooling mat to keep your dog cool and comfortable."
+    },
+    {
+      "id": 11,
+        "name": "Dog Toys Set",
+        "price": 15.99,
+        "images": ["dog-toys-1.jpg", "dog-toys-2.jpg"],
+        "description": "Set of durable and fun toys for active dogs."
+    }
+  ]
+  

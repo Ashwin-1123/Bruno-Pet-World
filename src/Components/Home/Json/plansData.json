@@ -1,0 +1,42 @@
+[
+    {
+      "title": "Basic",
+      "description": "Pet Care Essentials",
+      "price": 99,
+      "interval": "Mo",
+      "features": [
+        { "name": "Pet Boarding", "included": true },
+        { "name": "Regular Feeding", "included": true },
+        { "name": "Basic Grooming (Bathing and Brushing)", "included": true },
+        { "name": "Playtime and Socialization", "included": true },
+        { "name": "Comfortable Bedding", "included": true }
+      ]
+    },
+    {
+      "title": "Standard",
+      "description": "Comprehensive Pet Care",
+      "price": 199 ,
+      "interval": "Mo",
+      "features": [
+        { "name": "Pet Boarding", "included": true },
+        { "name": "Daily Feeding", "included": true },
+        { "name": "Full Grooming", "included": true },
+        { "name": "Daily Exercise and Play Sessions", "included": true },
+        { "name": "Basic Obedience Training", "included": true }
+      ]
+    },
+    {
+      "title": "Premium",
+      "description": "Luxury Pet Care",
+      "price": 250,
+      "interval": "Mo",
+      "features": [
+        { "name": "Pet Boarding in Spacious and Accommodations", "included": true },
+        { "name": "Gourmet Meals Tailored to Dietary Needs", "included": true },
+        { "name": "Personalized Grooming & Spa Treatments", "included": true },
+        { "name": "Advanced Training Programs with Professionals", "included": true },
+        { "name": "Daily Exercise Routines Tailored to Pet's Fitness", "included": true }
+      ]
+    }
+  ]
+  
